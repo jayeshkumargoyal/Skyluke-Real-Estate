@@ -23,7 +23,7 @@ function HomePage(){
                             <h2>Award Gained</h2>
                         </div>
                         <div className="box">
-                            <h1>1200+</h1>
+                            <h1>2000+</h1>
                             <h2>Property Ready</h2>
                         </div>
                     </div>
@@ -33,7 +33,7 @@ function HomePage(){
                 <img src="/bg.png" alt="" />
             </div>
         </div>
-    )
+    );
 }
 
 export default HomePage
