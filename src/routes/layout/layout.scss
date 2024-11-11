@@ -27,7 +27,8 @@
 
     // Using this classname because our content will be HomePage, ListPage, SinglePage, Login and Register Pages
     .content{
-        flex: 1;
+        // flex: 1;
+        height: calc(100vh - 100px);
     }
 }
 
