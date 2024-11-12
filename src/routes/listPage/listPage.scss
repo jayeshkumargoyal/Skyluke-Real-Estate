@@ -17,7 +17,6 @@
       overflow-y: scroll;
       padding-bottom: 50px;
       scrollbar-width: none; /* Hides scrollbar in Firefox */
-
       &::-webkit-scrollbar {
         display: none; /* Hides scrollbar in Chrome, Safari, and Opera */
       }
