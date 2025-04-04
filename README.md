@@ -2,10 +2,6 @@
 
 Skyluke Real Estate is a modern and intuitive web platform built to simplify the real estate experience for buyers, sellers, and agents. This full-stack application offers property listings, agent details, search and filter functionalities, and a responsive design for seamless navigation.
 
-## 🌐 Live Demo
-
-[Click here to view the live site](https://skyluke.netlify.app)
-
 ## 🚀 Features
 
 - 🔍 Search and filter properties by location, price, and category
@@ -31,12 +27,6 @@ Skyluke Real Estate is a modern and intuitive web platform built to simplify the
 - Node.js
 - Express.js
 - MongoDB
-
-## 📸 Screenshots
-
-| Home Page | Property Details | Dark Mode |
-|----------|------------------|-----------|
-| ![Home](https://skyluke.netlify.app/assets/home.png) | ![Details](https://skyluke.netlify.app/assets/details.png) | ![Dark](https://skyluke.netlify.app/assets/darkmode.png) |
 
 ## 📦 Installation
 
